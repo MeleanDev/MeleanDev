@@ -13,8 +13,7 @@
 - Un apasionado desarrollador Back-end autodidacta
 - La mayoria de mis proyectos son en PHP Laravel
 - Actualmente soy estudiante de Ing. informatica
-- Mi web personal [link]()
-- Actualmente estoy abierto para un pasante o una nueva oportunidad laboral, esta es [Mi CV](https://read.cv/)
+- Mi web personal [link](https://meleandev.github.io/Web/)
 
 <br><br>
 
