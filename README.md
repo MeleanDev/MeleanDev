@@ -25,9 +25,10 @@
 <p align="center">
 
 - **Languages**:
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=C0C0C0)
-  ![Laravel](https://img.shields.io/badge/Laravel-800000?style=for-the-badge&logo=Laravel&logoColor=FF0000&labelColor=C0C0C0)
-  ![Php](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=0000FF&labelColor=C0C0C0)
+  
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=C0C0C0)
+   ![Laravel](https://img.shields.io/badge/Laravel-800000?style=for-the-badge&logo=Laravel&logoColor=FF0000&labelColor=C0C0C0)
+   ![Php](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=0000FF&labelColor=C0C0C0)
   
 <br>   
     
