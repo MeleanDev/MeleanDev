@@ -11,7 +11,7 @@
 <br>
 
 - Un apasionado desarrollador autodidacta
-- La mayoria de mis proyectos son en PHP Laravel
+- La mayoria de mis proyectos son en PHP Laravel y algunos en Python
 - Actualmente soy estudiante de Ing. informatica
 - Mi web personal [Pagina Web](https://meleandev.github.io/Web/)
 
@@ -25,7 +25,7 @@
 <p align="center">
 
 - **Languages**:
-  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=C0C0C0)
   ![Laravel](https://img.shields.io/badge/Laravel-800000?style=for-the-badge&logo=Laravel&logoColor=FF0000&labelColor=C0C0C0)
   ![Php](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=0000FF&labelColor=C0C0C0)
   
